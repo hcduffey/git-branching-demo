@@ -1,2 +1,4 @@
 create a branch >> git checkout -b "new-branch-name"
 check active/all branches >> git branch
+create upstream remote branch and push code >> git push --set-upstream origin notes-branch
+  --set-upstream can also be written as -u
